@@ -1,0 +1,15 @@
+/Users/lin.kurzweg/dev/Basics3.ForLoop/bin/Debug/net6.0/Basics3.ForLoop
+/Users/lin.kurzweg/dev/Basics3.ForLoop/bin/Debug/net6.0/Basics3.ForLoop.deps.json
+/Users/lin.kurzweg/dev/Basics3.ForLoop/bin/Debug/net6.0/Basics3.ForLoop.runtimeconfig.json
+/Users/lin.kurzweg/dev/Basics3.ForLoop/bin/Debug/net6.0/Basics3.ForLoop.dll
+/Users/lin.kurzweg/dev/Basics3.ForLoop/bin/Debug/net6.0/Basics3.ForLoop.pdb
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.csproj.AssemblyReference.cache
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.AssemblyInfoInputs.cache
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.AssemblyInfo.cs
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.csproj.CoreCompileInputs.cache
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.dll
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/refint/Basics3.ForLoop.dll
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.pdb
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/Basics3.ForLoop.genruntimeconfig.cache
+/Users/lin.kurzweg/dev/Basics3.ForLoop/obj/Debug/net6.0/ref/Basics3.ForLoop.dll

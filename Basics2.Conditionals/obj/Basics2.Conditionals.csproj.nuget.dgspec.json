@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lin.kurzweg/dev/Gfu.CSharp.Basics/Basics2.Conditionals/Basics2.Conditionals.csproj": {}
+  },
+  "projects": {
+    "/Users/lin.kurzweg/dev/Gfu.CSharp.Basics/Basics2.Conditionals/Basics2.Conditionals.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lin.kurzweg/dev/Gfu.CSharp.Basics/Basics2.Conditionals/Basics2.Conditionals.csproj",
+        "projectName": "Basics2.Conditionals",
+        "projectPath": "/Users/lin.kurzweg/dev/Gfu.CSharp.Basics/Basics2.Conditionals/Basics2.Conditionals.csproj",
+        "packagesPath": "/Users/lin.kurzweg/.nuget/packages/",
+        "outputPath": "/Users/lin.kurzweg/dev/Gfu.CSharp.Basics/Basics2.Conditionals/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lin.kurzweg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

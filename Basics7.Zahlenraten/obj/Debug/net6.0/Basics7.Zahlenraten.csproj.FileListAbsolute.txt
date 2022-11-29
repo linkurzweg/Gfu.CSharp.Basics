@@ -1,0 +1,15 @@
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/bin/Debug/net6.0/Basics7.Zahlenraten
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/bin/Debug/net6.0/Basics7.Zahlenraten.deps.json
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/bin/Debug/net6.0/Basics7.Zahlenraten.runtimeconfig.json
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/bin/Debug/net6.0/Basics7.Zahlenraten.dll
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/bin/Debug/net6.0/Basics7.Zahlenraten.pdb
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.csproj.AssemblyReference.cache
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.AssemblyInfoInputs.cache
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.AssemblyInfo.cs
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.csproj.CoreCompileInputs.cache
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.dll
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/refint/Basics7.Zahlenraten.dll
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.pdb
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/Basics7.Zahlenraten.genruntimeconfig.cache
+/Users/lin.kurzweg/dev/Basics7.Zahlenraten/obj/Debug/net6.0/ref/Basics7.Zahlenraten.dll

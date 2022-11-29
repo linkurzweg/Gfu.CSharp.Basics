@@ -1,0 +1,15 @@
+/Users/lin.kurzweg/dev/Basics4.DoLoop/bin/Debug/net6.0/Basics4.DoLoop
+/Users/lin.kurzweg/dev/Basics4.DoLoop/bin/Debug/net6.0/Basics4.DoLoop.deps.json
+/Users/lin.kurzweg/dev/Basics4.DoLoop/bin/Debug/net6.0/Basics4.DoLoop.runtimeconfig.json
+/Users/lin.kurzweg/dev/Basics4.DoLoop/bin/Debug/net6.0/Basics4.DoLoop.dll
+/Users/lin.kurzweg/dev/Basics4.DoLoop/bin/Debug/net6.0/Basics4.DoLoop.pdb
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.csproj.AssemblyReference.cache
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.AssemblyInfoInputs.cache
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.AssemblyInfo.cs
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.csproj.CoreCompileInputs.cache
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.dll
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/refint/Basics4.DoLoop.dll
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.pdb
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/Basics4.DoLoop.genruntimeconfig.cache
+/Users/lin.kurzweg/dev/Basics4.DoLoop/obj/Debug/net6.0/ref/Basics4.DoLoop.dll

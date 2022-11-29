@@ -1,0 +1,15 @@
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/bin/Debug/net6.0/Basics1.HelloWorld
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/bin/Debug/net6.0/Basics1.HelloWorld.deps.json
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/bin/Debug/net6.0/Basics1.HelloWorld.runtimeconfig.json
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/bin/Debug/net6.0/Basics1.HelloWorld.dll
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/bin/Debug/net6.0/Basics1.HelloWorld.pdb
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.csproj.AssemblyReference.cache
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.AssemblyInfoInputs.cache
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.AssemblyInfo.cs
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.csproj.CoreCompileInputs.cache
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.dll
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/refint/Basics1.HelloWorld.dll
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.pdb
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/Basics1.HelloWorld.genruntimeconfig.cache
+/Users/lin.kurzweg/dev/Basics1.HelloWorld/obj/Debug/net6.0/ref/Basics1.HelloWorld.dll

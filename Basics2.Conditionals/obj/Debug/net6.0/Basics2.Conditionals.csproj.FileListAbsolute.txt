@@ -1,0 +1,15 @@
+/Users/lin.kurzweg/dev/Basics2.Conditionals/bin/Debug/net6.0/Basics2.Conditionals
+/Users/lin.kurzweg/dev/Basics2.Conditionals/bin/Debug/net6.0/Basics2.Conditionals.deps.json
+/Users/lin.kurzweg/dev/Basics2.Conditionals/bin/Debug/net6.0/Basics2.Conditionals.runtimeconfig.json
+/Users/lin.kurzweg/dev/Basics2.Conditionals/bin/Debug/net6.0/Basics2.Conditionals.dll
+/Users/lin.kurzweg/dev/Basics2.Conditionals/bin/Debug/net6.0/Basics2.Conditionals.pdb
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.csproj.AssemblyReference.cache
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.AssemblyInfoInputs.cache
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.AssemblyInfo.cs
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.csproj.CoreCompileInputs.cache
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.dll
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/refint/Basics2.Conditionals.dll
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.pdb
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/Basics2.Conditionals.genruntimeconfig.cache
+/Users/lin.kurzweg/dev/Basics2.Conditionals/obj/Debug/net6.0/ref/Basics2.Conditionals.dll
