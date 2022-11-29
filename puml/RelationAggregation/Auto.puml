@@ -1,0 +1,15 @@
+@startuml
+class Auto {
+    + Farbe : string <<get>> <<set>>
+    + Marke : string <<get>>
+    + Tachostand : int <<get>> <<set>>
+    + Tankinhalt : int <<get>> <<set>>
+    + Auto()
+    + Auto(wunschmarke:string)
+    + Auto(wunschmarke:string, wunschfarbe:string)
+    + Tanken(liter:int) : void
+    + Fahren(kilometer:int) : void
+    + Anzeigen() : void
+}
+Auto --> "Motor" Motor
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+class Motor {
+    + Drehzahl : int <<get>> <<set>>
+    + PS : int <<get>> <<set>>
+    + Motor()
+    + Anlassen() : void
+    + Abstellen() : void
+    + Anzeigen() : void
+}
+@enduml

@@ -1,0 +1,7 @@
+@startuml
+class Rad {
+    + Luftdruck : int <<get>> <<set>>
+    + Rad()
+    + Anzeigen() : void
+}
+@enduml
