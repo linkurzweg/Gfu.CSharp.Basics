@@ -1,0 +1,7 @@
+@startuml
+abstract class Arbeiter {
+    + Name : string <<get>> <<set>>
+    + Arbeiter(wunschname:string)
+    + {abstract} Arbeiten() : void
+}
+@enduml

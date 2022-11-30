@@ -5,6 +5,11 @@
 !include ./RelationAggregation/Motor.puml
 !include ./RelationAggregation/Auto.puml
 !include ./RelationAggregation/Program.puml
+!include ./PatternStrategy/Arbeiter.puml
+!include ./PatternStrategy/Maler.puml
+!include ./PatternStrategy/Firma.puml
+!include ./PatternStrategy/Schreiner.puml
+!include ./PatternStrategy/Program.puml
 !include ./Basics7Zahlenraten/Program.puml
 !include ./Basics6Array/Program.puml
 !include ./Basics2Conditionals/Program.puml
@@ -22,6 +27,9 @@
 !include ./RelationAggregation/obj/Debug/net60/Relation.Aggregation.AssemblyInfo.puml
 !include ./RelationAggregation/obj/Debug/net60/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
 !include ./RelationAggregation/obj/Debug/net60/Relation.Aggregation.GlobalUsings.g.puml
+!include ./PatternStrategy/obj/Debug/net70/.NETCoreApp,Version=v7.0.AssemblyAttributes.puml
+!include ./PatternStrategy/obj/Debug/net70/Pattern.Strategy.AssemblyInfo.puml
+!include ./PatternStrategy/obj/Debug/net70/Pattern.Strategy.GlobalUsings.g.puml
 !include ./Basics7Zahlenraten/obj/Debug/net60/Basics7.Zahlenraten.GlobalUsings.g.puml
 !include ./Basics7Zahlenraten/obj/Debug/net60/Basics7.Zahlenraten.AssemblyInfo.puml
 !include ./Basics7Zahlenraten/obj/Debug/net60/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml

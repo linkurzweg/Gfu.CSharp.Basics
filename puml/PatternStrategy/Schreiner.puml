@@ -1,0 +1,7 @@
+@startuml
+class Schreiner {
+    + Schreiner(wunschname:string)
+    + <<override>> Arbeiten() : void
+}
+Arbeiter <|-- Schreiner
+@enduml

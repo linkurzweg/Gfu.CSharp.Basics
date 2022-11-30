@@ -1,0 +1,7 @@
+@startuml
+class Maler {
+    + Maler(wunschname:string)
+    + <<override>> Arbeiten() : void
+}
+Arbeiter <|-- Maler
+@enduml

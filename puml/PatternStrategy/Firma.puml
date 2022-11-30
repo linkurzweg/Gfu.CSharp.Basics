@@ -1,0 +1,11 @@
+@startuml
+class Firma {
+    + Name : string <<get>> <<set>>
+    + Firma(wunschname:string)
+    + Einstellen(neuerMitarbeiter:Arbeiter) : void
+    + Produzieren() : void
+}
+class "List`1"<T> {
+}
+Firma --> "Mitarbeiter<Arbeiter>" "List`1"
+@enduml

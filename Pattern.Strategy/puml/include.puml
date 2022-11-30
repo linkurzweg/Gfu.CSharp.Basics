@@ -1,0 +1,10 @@
+@startuml
+!include ./Arbeiter.puml
+!include ./Maler.puml
+!include ./Firma.puml
+!include ./Schreiner.puml
+!include ./Program.puml
+!include ./obj/Debug/net70/.NETCoreApp,Version=v7.0.AssemblyAttributes.puml
+!include ./obj/Debug/net70/Pattern.Strategy.AssemblyInfo.puml
+!include ./obj/Debug/net70/Pattern.Strategy.GlobalUsings.g.puml
+@enduml
