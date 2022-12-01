@@ -1,0 +1,7 @@
+@startuml
+class Abgehoben {
+    + <<override>> Auflegen() : Telefonzustand
+    + <<override>> Waehlen() : Telefonzustand
+}
+Telefonzustand <|-- Abgehoben
+@enduml

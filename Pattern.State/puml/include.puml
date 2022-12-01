@@ -1,0 +1,11 @@
+@startuml
+!include ./Abgehoben.puml
+!include ./Verbunden.puml
+!include ./Telefonzustand.puml
+!include ./Aufgelegt.puml
+!include ./Telefon.puml
+!include ./Program.puml
+!include ./obj/Debug/net70/.NETCoreApp,Version=v7.0.AssemblyAttributes.puml
+!include ./obj/Debug/net70/Pattern.State.AssemblyInfo.puml
+!include ./obj/Debug/net70/Pattern.State.GlobalUsings.g.puml
+@enduml

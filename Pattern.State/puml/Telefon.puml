@@ -1,0 +1,11 @@
+@startuml
+class Telefon {
+    + Telefon()
+    + Abheben() : void
+    + Auflegen() : void
+    + Waehlen() : void
+    + Sprechen() : void
+    + AnrufAnnehmen() : void
+}
+Telefon --> "AktuellerZustand" Telefonzustand
+@enduml

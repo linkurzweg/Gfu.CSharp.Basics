@@ -1,0 +1,7 @@
+@startuml
+class Verbunden {
+    + <<override>> Auflegen() : Telefonzustand
+    + <<override>> Sprechen() : Telefonzustand
+}
+Telefonzustand <|-- Verbunden
+@enduml

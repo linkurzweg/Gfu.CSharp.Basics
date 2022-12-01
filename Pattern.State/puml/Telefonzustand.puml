@@ -1,0 +1,9 @@
+@startuml
+abstract class Telefonzustand {
+    + <<virtual>> Abheben() : Telefonzustand
+    + <<virtual>> AnrufAnnehmen() : Telefonzustand
+    + <<virtual>> Auflegen() : Telefonzustand
+    + <<virtual>> Sprechen() : Telefonzustand
+    + <<virtual>> Waehlen() : Telefonzustand
+}
+@enduml
